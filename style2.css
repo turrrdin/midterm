@@ -1,0 +1,203 @@
+.navbar-light {
+    background: linear-gradient(120deg, #4d534f 0%, #000000 100%);
+}
+
+
+.navbar-toggler {
+    background: #131616 !important;
+    border: 1px solid #060707 !important;
+}
+
+.navbar-brand {
+    color: #059179  !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.active {
+    color: #059179 !important;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+ 
+}
+
+.card {
+    border: none;
+    outline: none;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+
+.text1 {
+    font-size: 18px;
+    color: #000;
+}
+
+.info {
+    line-height: 17px;
+}
+
+.book {
+    background: #00cdac;
+}
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.rounded {
+    margin-left: 160px;
+    object-position:auto;
+  }
+
+
+  h1{
+    font-size: 29px;
+    color: rgba(255, 255, 255, 0.685);
+    text-align: justify;
+    margin-top: -74px;
+    margin-right: 17%;
+    margin-left: 48%;
+  }
+
+  h2{
+    font-size: 29px;
+    color: #059179 ;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  h3{
+    font-size: 29px;
+    color: linear-gradient(120deg, #4d534f 0%, #000000  100%) ;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  h4 {
+    font-size: 29px;
+    color: #059179 ;
+    margin-top:-470px;
+    text-align:center;
+  }
+
+  h6 {
+    font-size: 20px;
+    color: linear-gradient(120deg, #4d534f 0%, #000000  100%) ;
+    margin-top: 20px;
+    text-align: left;
+  }
+
+  .num2 {
+    background: linear-gradient(120deg, #4d534f 0%, #059179  100%);
+    background-size: 6px, auto, contain;
+    margin-top: 320px;
+    margin-bottom: -150px;
+}
+
+body {
+    background: linear-gradient(120deg, #4d534f 0%, #000000 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header p {
+    color: #CCCDCF;
+    font-size: 18px;
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+form {
+    background: #151515;
+    border-radius: 5px;
+    padding:5px;
+    margin:0 auto;
+    box-shadow: 0 40px 50px -50px #89fcf3;
+}
+
+
+form input {
+    display: block;
+    width: 100%;
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+    padding: 20px;
+    background: #ffffff;
+    color: #000;
+    transition: 0.5s;
+    align-items: center;
+
+}
+
+form input:focus {
+    outline: none;
+    box-shadow: 0px 10px 30px -20px #89fcf3;
+    filter: contrast(85%);
+}
+
+
+
+form label {
+    color: #CCCDCF;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+
+
+form .subscribe {
+    max-width: 300px;
+    height: auto;
+    background: #151515;
+    border: #89fcf3 2px solid;
+    border-radius: 45px;
+    font-weight: bold;
+    line-height: normal;
+    margin: 0 auto -60px;
+}
+
+form .subscribe:hover {
+    background: #89fcf3;
+    color: #151515;
+    cursor: pointer;
+
+}
+
+
+
+form .mc-field-group {
+    margin-bottom: 35px;
+}
+
+form .indicates-required {
+    color: #CCCDCF;
+    font-size: 0.5em;
+    margin: 35px 0;
+    text-align: center;
+}
+
+
+
+
+

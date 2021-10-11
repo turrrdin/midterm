@@ -1,0 +1,154 @@
+/* ---Navbar--- */
+
+.navbar-light {
+    background: linear-gradient(120deg, #4d534f 0%, #000000 100%);
+}
+
+
+.navbar-toggler {
+    background: #131616 !important;
+    border: 1px solid #060707 !important;
+}
+
+.navbar-brand {
+    color: #059179  !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.active {
+    color: #059179 !important;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+ 
+}
+
+body {
+    background: linear-gradient(120deg, #4d534f 0%, #000000 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.card {
+    border: none;
+    outline: none;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+
+.text1 {
+    font-size: 18px;
+    color: #000;
+}
+
+.info {
+    line-height: 17px;
+}
+
+.book {
+    background: #00cdac;
+}
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.midleft {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  }
+
+  .midright {
+    position: absolute;
+    top: 25%;
+    right: 8px;
+  }
+
+  h1{
+    font-size: 29px;
+    color: rgba(255, 255, 255, 0.685);
+    text-align: justify;
+    margin-top: -74px;
+    margin-right: 17%;
+    margin-left: 48%;
+  }
+
+  h2{
+    font-size: 29px;
+    color: #059179 ;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  h3{
+    font-size: 29px;
+    color: linear-gradient(120deg, #4d534f 0%, #000000  100%) ;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  h4 {
+    font-size: 29px;
+    color: #059179 ;
+    margin-top:-470px;
+    text-align:center;
+  }
+
+  h6 {
+    font-size: 20px;
+    color: linear-gradient(120deg, #4d534f 0%, #000000  100%) ;
+    margin-top: 20px;
+    text-align: left;
+  }
+
+  .carousel {
+    margin: auto;
+    text-align: justify;
+    width:640px;
+    height:360px;
+  }
+
+  .rounded {
+    margin-left: 160px;
+    object-position:auto;
+  }
+
+  .carousel-item.h5, .carousel-item.p {
+    position: absolute;
+    object-position:center;
+  }
+
+
+.num2 {
+    background: linear-gradient(120deg, #4d534f 0%, #059179  100%);
+    background-size: 6px, auto, contain;
+    margin-top: 320px;
+    margin-bottom: -150px;
+}
+
+.col{
+    color: white ;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.database-img {
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-bottom: 35px;
+}
